@@ -521,4 +521,5 @@
 0.0.0.0	ytmp3.mobi
 0.0.0.0	www.y2mate.com
 0.0.0.0	notube.si
-
+# ACTUALIZACION DESBLOQUEAR - 24 DE SEPTIEMBRE
+0.0.0.0 malacatos.bancodeloja.com
